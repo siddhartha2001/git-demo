@@ -1,0 +1,4 @@
+git init -- initialises the git repo
+git add filename -- adds the file to current folder
+git commit -- commits the recently added changes to git repo
+
