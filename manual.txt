@@ -5,4 +5,8 @@ git status -- Reports the changes
 git log -- List of all commits made
 git log --oneline -- simple list of commits 
 git remote add -- link local git to github
+git checkout -- checkouts to specified commit
+
+
+
 git push -u origin master -- pushes the recently commited files in "master" to "origin" in github
